@@ -1,0 +1,30 @@
+@import "reset";
+@import "normalize";
+@import "fonts";
+@import "vars";
+@import "mixin";
+@import "classes";
+@import "header";
+@import "footer";
+@import "menu_dropdawn";
+@import "why_do";
+@import "products";
+@import "about_verification";
+@import "range_price";
+@import "pricing";
+@import "review_wrapper";
+@import "faq";
+@import "get_keys";
+@import "example_docs";
+@import "get_started";
+@import "cookies";
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+body{
+  overflow-x: hidden;
+}
